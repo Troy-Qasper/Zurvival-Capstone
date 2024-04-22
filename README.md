@@ -9,7 +9,8 @@ The first level introduced is a tutorial level designed to allow players to get 
 - 3 GB Available on HDD/SSD
 ## Installing
 To install the game follow this short tutorial. 
-1. If you wish to install without the tutorial locate and install the contents within the "Game" folder.
+If you wish to install without the tutorial:
+1. Locate and install the contents within the "Game" folder.
 2. Following this step launch the "ZurvivalCapstone" executable and the game will start.
 3. Finally, after the game loads, hit the "Play" button and select the first level (tutorial) to begin.
 ## Testing
