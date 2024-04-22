@@ -40,7 +40,7 @@ If you wish to install without the tutorial:
 
 ## Unity Store Assets
 - **[Icon Sprites]**(https://assetstore.unity.com/packages/2d/gui/icons/fps-icons-pack-45240)
-- **[Industrial** Assets/Map](https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429)
+- **[Industrial]** Assets/Map](https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429)
 - **[Crosshair]**(https://assetstore.unity.com/packages/2d/gui/icons/simple-modern-crosshairs-pack-1-79034)
 - **[Zombie SFX]**(https://assetstore.unity.com/packages/audio/sound-fx/creatures/zombie-voice-audio-pack-free-196645)
 - **[Ammo Box Assets]**(https://assetstore.unity.com/packages/3d/props/weapons/ammo-crate-wood-ammunition-box-90071)
