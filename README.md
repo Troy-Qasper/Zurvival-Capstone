@@ -35,7 +35,7 @@ To install the game follow this short tutorial.
 If you wish to install without the tutorial:
 1. Locate and install the contents within the "Game" folder.
 2. Launch the "ZurvivalCapstone" executable and the game will start.
-3. After the game loads, hit the "Play" button and select the first level (tutorial) to begin.
+3. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
 ## Testing
 
 ## Unity Store Assets
