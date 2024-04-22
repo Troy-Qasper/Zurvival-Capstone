@@ -14,6 +14,9 @@ The first level introduced is a tutorial level designed to allow players to get 
 - ADS (Right-Click - Hold)
 - Fire (Left-Click)
 - Jump (Space)
+- Interact (F)
+- Pause (Escape)
+- Switch Weapons (1/2)
 ### Features:
 - High-score tracking, both rounds/waves and score.
 - Multiple zombie types with varying damages and speeds.
