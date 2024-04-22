@@ -4,7 +4,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 (New Enemies to come soon!)
 ## Getting Started
 The first level introduced is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice.
-### Controls
+### Controls:
 - Move Forward (W)
 - Move Backward (S)
 - Strafe Right (D)
@@ -13,13 +13,12 @@ The first level introduced is a tutorial level designed to allow players to get 
 - Crouch (Left Ctrl - Toggle)
 - ADS (Right-Click - Hold)
 - Fire (Left-Click)
-### Features
+### Features:
 - High-score tracking, both rounds/waves and score.
 - Multiple zombie types with varying damages and speeds.
-
-Zombie Types:
+### Zombie Types:
 - Basic
-### Guns
+### Guns:
 - AK-47
 - M1911
 ## Prerequisites
