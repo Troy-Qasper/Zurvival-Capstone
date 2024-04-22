@@ -1,5 +1,5 @@
 # Zurvival
-Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. This game will test your ability to escape and kill the merciless, violent, and incredibly fast undead. How long can you survive?
+Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. Zurvival will test your ability to escape and kill the merciless, violent, and incredibly fast hordes of undead. How long can you survive? Will you make it to the next stage?
 
 (New Enemies to come soon!)
 ## Getting Started
