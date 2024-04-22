@@ -13,6 +13,7 @@ The first level introduced is a tutorial level designed to allow players to get 
 - Crouch (Left Ctrl - Toggle)
 - ADS (Right-Click - Hold)
 - Fire (Left-Click)
+- Jump (Space)
 ### Features:
 - High-score tracking, both rounds/waves and score.
 - Multiple zombie types with varying damages and speeds.
