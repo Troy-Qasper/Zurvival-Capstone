@@ -1,5 +1,5 @@
 # Zurvival
-Zurvival is an arcade zombie shooter with round/wave based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. This game will test your ability to escape and kill the merciless, violent, and incredibly fast undead. How long can you survive?
+Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. This game will test your ability to escape and kill the merciless, violent, and incredibly fast undead. How long can you survive?
 (New Enemies to come soon!)
 ## Getting Started
 The first level introduced is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice.
@@ -11,7 +11,7 @@ The first level introduced is a tutorial level designed to allow players to get 
 To install the game follow this short tutorial. 
 If you wish to install without the totorial locate and install the contents within the "Game" folder.
 Following this step launch the "ZurvivalCapstone" executable and the game will start.
-Finally after the game loads, hit the "Play" button and select the first level (tutorial) to begin.
+Finally, after the game loads, hit the "Play" button and select the first level (tutorial) to begin.
 ## Testing
 
 ## Unity Store Assets
