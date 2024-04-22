@@ -16,8 +16,8 @@ The first level introduced is a tutorial level designed to allow players to get 
 ### Features
 - High-score tracking, both rounds/waves and score.
 - Multiple zombie types with varying damages and speeds.
-- - Zombie Types:
-  - Basic
+Zombie Types:
+- Basic
 ### Guns
 - AK-47
 - M1911
