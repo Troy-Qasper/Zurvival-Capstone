@@ -1,7 +1,7 @@
 # Zurvival Capstone
 Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. Zombies will increase in number every round so be prepared for the onslaught. Zurvival will test your ability to escape and kill the merciless, violent, and incredibly fast hordes of undead. How long can you survive? Will you make it to the next stage?
 
-(New Enemies coming soon!)
+(New Enemies to come soon!)
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installing)
@@ -26,6 +26,7 @@ If you wish to install without the tutorial:
 - Unity
 - Visual Studio
 ### Weapons:
+Each weapon has unique animations for recoil, reloading, and ads.
 - AK-47
 - M1911
 - M4
