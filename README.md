@@ -1,5 +1,15 @@
 # Zurvival Capstone
 Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. Zombies will increase in number every round so be prepared for the onslaught. Zurvival will test your ability to escape and kill the merciless, violent, and incredibly fast hordes of undead. How long can you survive? Will you make it to the next stage?
+## Table of Contents
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installing)
+- [Built With](#Built-With)
+- [Weaponry](#Guns)
+- [Getting Started](#Getting-Started)
+- [Controls](#Controls)
+- [Testing](#Testing)
+- [Unity Store Assets](#Unity-Store-Assets)
+- [Liscense](#Liscense)
 ## Prerequisites
 - Windows x64 OS
 - 4 GB of RAM
@@ -14,14 +24,11 @@ If you wish to install without the tutorial:
 ## Built With
 - Unity
 - Visual Studio
-### Features:
-- High-score tracking, both rounds/waves and score.
-- Multiple zombie types with varying damages and speeds.
-### Zombie Types:
-- Basic
 ### Guns:
 - AK-47
 - M1911
+- M4
+- Micro-Uzi
 ## Getting Started
 The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first level, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below:
 - [placeHolder]()
