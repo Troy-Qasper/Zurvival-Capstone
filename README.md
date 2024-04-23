@@ -4,7 +4,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installing)
 - [Built With](#Built-With)
-- [Weaponry](#Guns)
+- [Weapons](#Weapons)
 - [Getting Started](#Getting-Started)
 - [Controls](#Controls)
 - [Testing](#Testing)
@@ -24,7 +24,7 @@ If you wish to install without the tutorial:
 ## Built With
 - Unity
 - Visual Studio
-### Guns:
+### Weapons:
 - AK-47
 - M1911
 - M4
