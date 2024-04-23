@@ -42,6 +42,7 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - ADS **(Right-Click - Hold)**
 - Fire **(Left-Click)**
 - Reload **(R)**
+- Throw Grenade **(G - Hold)**
 - Jump **(Space)**
 - Interact **(F)**
 - Pause **(Escape)**
