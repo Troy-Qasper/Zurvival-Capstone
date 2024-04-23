@@ -1,7 +1,19 @@
-# Zurvival
+# Zurvival Capstone
 Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after reaching a certain round with an accurate score count for zombies killed. Zombies will increase in number every round so be prepared for the onslaught. Zurvival will test your ability to escape and kill the merciless, violent, and incredibly fast hordes of undead. How long can you survive? Will you make it to the next stage?
-
+## Prerequisites
+- Windows x64 OS
+- 4 GB of RAM
+- 3 GB Available on HDD/SSD
 (New Enemies to come soon!)
+## Installing
+To install the game follow this short tutorial. 
+If you wish to install without the tutorial:
+1. Locate and install the contents within the "Game" folder.
+2. Launch the "ZurvivalCapstone" executable and the game will start.
+3. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
+## Built With
+- Unity
+- Visual Studio
 ### Features:
 - High-score tracking, both rounds/waves and score.
 - Multiple zombie types with varying damages and speeds.
@@ -27,16 +39,6 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - Interact **(F)**
 - Pause **(Escape)**
 - Switch Weapons **(1, 2)**
-## Prerequisites
-- Windows x64 OS
-- 4 GB of RAM
-- 3 GB Available on HDD/SSD
-## Installing
-To install the game follow this short tutorial. 
-If you wish to install without the tutorial:
-1. Locate and install the contents within the "Game" folder.
-2. Launch the "ZurvivalCapstone" executable and the game will start.
-3. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
 ## Testing
 
 ## Unity Store Assets
