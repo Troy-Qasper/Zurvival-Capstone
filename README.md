@@ -14,6 +14,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - Windows x64 OS
 - 4 GB of RAM
 - 3 GB Available on HDD/SSD
+
 (New Enemies to come soon!)
 ## Installing
 To install the game follow this short tutorial. 
