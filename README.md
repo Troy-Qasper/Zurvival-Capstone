@@ -22,6 +22,7 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - Crouch **(Left Ctrl - Toggle)**
 - ADS **(Right-Click - Hold)**
 - Fire **(Left-Click)**
+- Reload **(R)**
 - Jump **(Space)**
 - Interact **(F)**
 - Pause **(Escape)**
