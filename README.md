@@ -64,6 +64,7 @@ Each Enemy has different damage, hp, and attack speed values.
 ## Getting Started
 The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first round and dying in the practice chamber, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below listed in the [How To Play](#How-To-Play).
 ### How To Play:
+[![YouTube](http://i.ytimg.com/vi/WJeUTYuq6S0/hqdefault.jpg)](https://www.youtube.com/watch?v=WJeUTYuq6S0)
 - Move Forward **(W)**
 - Move Backward **(S)**
 - Strafe Right **(D)**
@@ -78,7 +79,6 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - Interact **(F)**
 - Pause **(Escape)**
 - Switch Weapons **(1, 2)**
-- **[Tutorial](https://youtu.be/WJeUTYuq6S0)**
 - **[User Preferences/Options Guide](https://youtu.be/yNpwHtaGRZE)**
 ## Testing
 - **[Testing](https://github.com/Troy-Qasper/Zurvival-Capstone/tree/main/test)**
