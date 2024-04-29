@@ -16,6 +16,7 @@ TagManager:
   - Ammo
   - ZombieBody
   - ZombieHead
+  - Death Cube
   layers:
   - Default
   - TransparentFX

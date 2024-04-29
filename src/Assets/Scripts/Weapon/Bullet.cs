@@ -46,33 +46,6 @@ using UnityEngine;
                 //enemy.gunBarrel.SetParent(collision.gameObject.transform);
                 Destroy(gameObject);
             }
-        /*if (hitTransform.CompareTag("ZombieBody"))
-        {
-            Enemy enemy = hitTransform.GetComponent<Enemy>();
-            if (collision.gameObject.GetComponent<Enemy>().isDead == false)
-            {
-                Debug.Log("body shot");
-                enemy.DealDamageToEnemy(damageInflictedByBullet);
-
-            }
-            CreateBloodSprayEffect(collision);
-            //enemy.gunBarrel.SetParent(collision.gameObject.transform);
-            Destroy(gameObject);
-
-        }
-        if (hitTransform.CompareTag("ZombieHead"))
-        {
-            Enemy enemy = hitTransform.GetComponent<Enemy>();
-            if (collision.gameObject.GetComponent<Enemy>().isDead == false)
-            {
-                Debug.Log("Headshot");
-                enemy.DealDamageToEnemy(damageInflictedByBullet * 2);
-            }
-            CreateBloodSprayEffect(collision);
-            //enemy.gunBarrel.SetParent(collision.gameObject.transform);
-            Destroy(gameObject);
-
-        }*/
     }
 
     //bullet collision visuals

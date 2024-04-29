@@ -13,6 +13,7 @@ using UnityEngine.UI;
         private float lerpTimer;
         public float maxHealth = 100f;
         public float chipSpeed = 2f;
+    public float deathCube = 100f;
         public Image frontHealthBar;
         public Image backHealthBar;
         public GameObject bloodyScreen;
@@ -33,17 +34,12 @@ using UnityEngine.UI;
         // Update is called once per frame
         void Update()
         {
-        //level = SpawnController.Instance.currWave;
             Health = Mathf.Clamp(Health, 0, maxHealth);
             UpdateHealthUI();
-            /* if (Input.GetKeyDown(KeyCode.A))
-             {
-                 TakeDamage(Random.Range(5, 10));
-             }
-             if (Input.GetKeyDown(KeyCode.S))
-             {
-                 RestoreHealth(Random.Range(5, 10));
-             }*/
+            if(GlobalRefs.Instance.waveNumber % 3 == 0)
+            {
+            RestoreHealth(UnityEngine.Random.Range(5, 10));
+            }
         }
 
         public void UpdateHealthUI()
@@ -191,6 +187,13 @@ using UnityEngine.UI;
                     TakeDamageFromEnemy(other.gameObject.GetComponent<ZombieHand>().damage);
                 }
             }
+        if (other.CompareTag("Death Cube"))
+        {
+            if (isDead == false)
+            {
+                TakeDamageFromEnemy(100);
+            }
         }
+    }
 }
 

@@ -65,6 +65,7 @@ public class SpawnController : MonoBehaviour
         waveTracker = currWave;
         GlobalRefs.Instance.waveNumber = currWave;
         GlobalRefs.Instance.pointScore = pointCount;
+        
 
         //insert bonus round checkpoint points here
 

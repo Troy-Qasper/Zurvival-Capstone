@@ -60,7 +60,7 @@ public class SettingsManager : MonoBehaviour
             SaveLoadManager.Instance.SaveVolumeSettings(musicSlider.value, sfxSlider.value, masterSlider.value, zombieSlider.value, inGameMusicSlider.value);
         });
         
-        //StartCoroutine(LoadAndApplySettings());
+        StartCoroutine(LoadAndApplySettings());
     }
 
     private IEnumerator LoadAndApplySettings()
