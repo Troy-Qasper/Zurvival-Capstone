@@ -20,9 +20,20 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 ## Installing
 To install the game follow this short tutorial. 
 If you wish to install without the tutorial:
-1. Locate and install the contents within the "Game" folder.
-2. Launch the "ZurvivalCapstone" executable and the game will start.
-3. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
+1. Locate and install the contents within the "Zurvival" folder
+2. Select the "Zurvival.zip"
+3. Download the raw file
+4. Navigate the download location and extract the zip file
+5. Open the "Zurvival" folder after extraction
+6. Select and open the "ZurvivalCapstone.exe"
+7. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
+8. Enjoy Zurviving!!!
+
+
+
+https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/89185b42-4137-4d6c-93bb-477c8cc29fb7
+
+
 ## Built With
 - Unity
 - Visual Studio
@@ -51,8 +62,7 @@ Each Enemy has different damage, hp, and attack speed values.
     - Damage (35)
     - Attack Speed (90%)
 ## Getting Started
-The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first level, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below:
-- [placeHolder]()
+The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first level, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below listed in the [How To Play](#How-To-Play).
 ### How To Play:
 - Move Forward **(W)**
 - Move Backward **(S)**
