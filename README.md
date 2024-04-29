@@ -79,7 +79,12 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - Interact **(F)**
 - Pause **(Escape)**
 - Switch Weapons **(1, 2)**
-- **[User Preferences/Options Guide](https://youtu.be/yNpwHtaGRZE)**
+### User Preferences/Options
+
+
+https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/86b5e76f-0636-4fff-bfd5-7644ba0d20f0
+
+
 ## Testing
 - **[Testing](https://github.com/Troy-Qasper/Zurvival-Capstone/tree/main/test)**
 
