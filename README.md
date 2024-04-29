@@ -67,6 +67,8 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - Interact **(F)**
 - Pause **(Escape)**
 - Switch Weapons **(1, 2)**
+- **[Tutorial](https://youtu.be/WJeUTYuq6S0)**
+- **[User Preferences/Options Guide](https://youtu.be/yNpwHtaGRZE)**
 ## Testing
 
 ## Unity Store Assets
