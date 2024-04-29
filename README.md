@@ -17,6 +17,44 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [Testing](#Testing)
 - [Unity Store Assets](#Unity-Store-Assets)
 - [License](#Liscense)
+## Requirements Analysis
+Objective: Zurvival is a game designed to challenge the player with high-intensity gameplay with varying factors including health, damage, attack speed, enemies, guns, ammo, grenades, and more. Players must manage inventory/item usage efficiently using powerful items like grenades only when necessary.
+### Functional Requirements
+**Gameplay Mechanics**
+- Implement smooth and responsive character movement controls.
+- Develop accurate and satisfying shooting mechanics for diverse weapons.
+- Implement a health system for players and enemies with appropriate damage calculations.
+
+**Weapons, Maps, and Inventory**
+- Implementation of at least two levels with unique weapon spawns.
+- Gradually increase the difficulty of levels providing a challenging experience.
+- Develop a user-friendly UI for current supplies in inventory.
+
+**Enemy AI**
+- Implement AI algorithms for realistic and challenging enemy behavior.
+- Design challenging bosses or advanced enemies with unique mechanics or attributes.
+
+**Testing and Quality Assurance**
+- Conduct thorough testing of all gameplay mechanics and features.
+- Address and fix any bugs or issues identified during play-testing.
+- Gather feedback from play-testers to refine gameplay and address any issues.
+
+**Budget**
+- Total Expenditures: $259.96
+  - Unity Assets: $150.00
+  - Youtube Premium: $14.99/month
+  - Unity From Zero to Proficiency: $50.00
+ 
+## Risk Management
+**Summary:** Risk Management will be conducted throughout the development life-cycle allowing the assessment of concerns encompassing the project, for example, scope creep.
+
+1. Risk Identification
+   - Expansion of project scope leading to delays and resource issues.
+   - Potential challenges in optimizing the game's performance.
+2. Risk Mitigation
+   - Performance tests to identify and address technical issues.
+   - Extensive testing to identify and resolve performance issues early in development.
+   - Regularly scheduled development to ensure the project proceeds on time including specified focus; for example, focusing primarily on weapon or enemy development and more specifically the animations or health systems of the two.
 ## Prerequisites
 - Windows x64 OS
 - 4 GB of RAM
@@ -33,11 +71,7 @@ If you wish to install without the tutorial:
 7. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
 8. Enjoy Zurviving!!!
 
-
-
 https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/89185b42-4137-4d6c-93bb-477c8cc29fb7
-
-
 ## Built With
 - Unity
 - Visual Studio
@@ -66,7 +100,7 @@ Each Enemy has different damage, hp, and attack speed values.
     - Damage (35)
     - Attack Speed (90%)
 ## Getting Started
-The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first round and dying in the practice chamber, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below listed in the [How To Play](#How-To-Play).
+The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first round and dying in the practice chamber, players can return to the main menu and begin Level 2. If you are still confused please follow the tutorial video in the [How To Play](#How-To-Play) section.
 ### How To Play:
 [![YouTube](http://i.ytimg.com/vi/WJeUTYuq6S0/hqdefault.jpg)](https://www.youtube.com/watch?v=WJeUTYuq6S0)
 - Move Forward **(W)**
