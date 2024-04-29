@@ -2,6 +2,7 @@
 Zurvival is an arcade zombie shooter with round/wave-based systems and new level unlocks after achieving a certain round while also maintaining an accurate score count for zombies killed. Zombies will increase in number every round so be prepared for the onslaught of different enemies. Zurvival will test players' ability to escape and kill the merciless, violent, and incredibly fast hordes of undead. How long can you survive? Will you make it to the next stage?
 
 (New Enemies to come soon!)
+**[Gameplay Demo](https://youtu.be/d7M9i6PqZng)**
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installing)
