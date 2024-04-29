@@ -40,8 +40,8 @@ Objective: Zurvival is a game designed to challenge the player with high-intensi
 - Gather feedback from play-testers to refine gameplay and address any issues.
 
 **Budget**
-- Total Expenditures: $259.96
-  - Unity Assets: $150.00
+- Total Expenditures: $135.00
+  - Unity Assets: $25.00
   - Youtube Premium: $14.99/month
   - Unity From Zero to Proficiency: $50.00
  
