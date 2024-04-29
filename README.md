@@ -7,6 +7,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [Installation](#Installing)
 - [Built With](#Built-With)
 - [Weapons](#Weapons)
+- [Zombies](#Zombies)
 - [Getting Started](#Getting-Started)
 - [How To Play](#How-To-Play)
 - [Testing](#Testing)
