@@ -11,7 +11,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [How To Play](#How-To-Play)
 - [Testing](#Testing)
 - [Unity Store Assets](#Unity-Store-Assets)
-- [Liscense](#Liscense)
+- [License](#Liscense)
 ## Prerequisites
 - Windows x64 OS
 - 4 GB of RAM
