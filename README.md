@@ -19,7 +19,8 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [Unity Store Assets](#Unity-Store-Assets)
 - [License](#Liscense)
 ## Project Proposal
-[Game Proposal.pdf](https://github.com/Troy-Qasper/Zurvival-Capstone/files/15154688/Game.Proposal.pdf)
+[Game Proposal.docx](https://github.com/Troy-Qasper/Zurvival-Capstone/files/15154692/Game.Proposal.docx)
+
 
 ## Requirements Analysis
 Objective: Zurvival is a game designed to challenge the player with high-intensity gameplay with varying factors including health, damage, attack speed, enemies, guns, ammo, grenades, and more. Players must manage inventory/item usage efficiently using powerful items like grenades only when necessary.
