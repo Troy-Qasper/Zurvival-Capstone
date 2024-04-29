@@ -28,9 +28,27 @@ If you wish to install without the tutorial:
 ### Weapons:
 Each weapon has unique animations for recoil, reloading, and ads.
 - AK-47
+  - Damage (25)
+  - Rounds in Mag (30)
 - M1911
+  - Damage (15)
+  - Rounds in Mag (7)
 - M4
+  - Damage (20)
+  - Rounds in Mag (20)
 - Micro-Uzi
+  - Damage (18)
+  - Rounds in Mag (35)
+  ### Zombies:
+  Each Zombie has different damage, hp, and attack speed values.
+  - Zombie
+    - HP (100)
+    - Damage (25)
+    - Attack Speed (100%)
+  - Titan
+    - HP (250)
+    - Damage (35)
+    - Attack Speed (90%)
 ## Getting Started
 The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first level, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below:
 - [placeHolder]()
