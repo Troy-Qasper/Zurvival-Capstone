@@ -39,8 +39,8 @@ Each weapon has unique animations for recoil, reloading, and ads.
 - Micro-Uzi
   - Damage (18)
   - Rounds in Mag (35)
-  ### Zombies:
-  Each Zombie has different damage, hp, and attack speed values.
+### Zombies:
+Each Zombie has different damage, hp, and attack speed values.
   - Zombie
     - HP (100)
     - Damage (25)
