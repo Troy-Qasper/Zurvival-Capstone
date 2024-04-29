@@ -7,6 +7,7 @@ Zurvival is an arcade zombie shooter with round/wave-based systems and new level
 - [Installation](#Installing)
 - [Built With](#Built-With)
 - [Weapons](#Weapons)
+- [Enemies](#Enemies)
 - [Getting Started](#Getting-Started)
 - [How To Play](#How-To-Play)
 - [Testing](#Testing)
@@ -70,7 +71,9 @@ The first level introduced (Level 1) is a tutorial level designed to allow playe
 - **[Tutorial](https://youtu.be/WJeUTYuq6S0)**
 - **[User Preferences/Options Guide](https://youtu.be/yNpwHtaGRZE)**
 ## Testing
-- ![image](https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/796a829d-67bb-41fc-b007-3d07c4f5bf89)
+- **[Testing](https://github.com/Troy-Qasper/Zurvival-Capstone/tree/main/test)**
+
+![image](https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/796a829d-67bb-41fc-b007-3d07c4f5bf89)
 ## Unity Store Assets
 - **[Icon Sprites](https://assetstore.unity.com/packages/2d/gui/icons/fps-icons-pack-45240)**
 - **[Industrial Assets/Map](https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429)**
