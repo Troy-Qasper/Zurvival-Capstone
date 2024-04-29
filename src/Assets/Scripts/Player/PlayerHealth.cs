@@ -36,10 +36,7 @@ using UnityEngine.UI;
         {
             Health = Mathf.Clamp(Health, 0, maxHealth);
             UpdateHealthUI();
-            if(GlobalRefs.Instance.waveNumber % 3 == 0)
-            {
-            RestoreHealth(UnityEngine.Random.Range(5, 10));
-            }
+            
         }
 
         public void UpdateHealthUI()

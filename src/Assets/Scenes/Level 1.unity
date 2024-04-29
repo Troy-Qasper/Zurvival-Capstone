@@ -27059,7 +27059,7 @@ PrefabInstance:
     - target: {fileID: 2328163488906528381, guid: 13068a8df0f8cdf4d850a8914931c0c6,
         type: 3}
       propertyPath: initialZombieWaveCount
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7424105502676037671, guid: 13068a8df0f8cdf4d850a8914931c0c6,
         type: 3}
