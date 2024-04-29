@@ -62,7 +62,7 @@ Each Enemy has different damage, hp, and attack speed values.
     - Damage (35)
     - Attack Speed (90%)
 ## Getting Started
-The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first level, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below listed in the [How To Play](#How-To-Play).
+The first level introduced (Level 1) is a tutorial level designed to allow players to get used to controls and how many shots it may take to kill a zombie. It functions as a normal map, however, after completing 1 wave (killing 1 zombie) you will unlock the next level, though players may use this area to practice. After finishing the first round and dying in the practice chamber, players can then return to the main menu and begin Level 2. If you are still confused please follow the tutorial video below listed in the [How To Play](#How-To-Play).
 ### How To Play:
 - Move Forward **(W)**
 - Move Backward **(S)**
