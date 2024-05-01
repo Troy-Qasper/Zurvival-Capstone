@@ -67,7 +67,7 @@ Objective: Zurvival is a game designed to challenge the player with high-intensi
 ## Installing
 To install the game follow this short tutorial. 
 If you wish to install without the tutorial:
-1. Locate the code button on the top of this page.
+1. Locate the "code" button on the top of this page.
 2. Select the dropdown menu and then select "download zip."
 4. Navigate to the download location and extract the zip file
 5. Open the "Zurvival Game" folder after extraction
