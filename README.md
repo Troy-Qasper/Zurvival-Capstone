@@ -138,12 +138,13 @@ https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/86b5e76f-0636-4
 - **[Zombie SFX](https://assetstore.unity.com/packages/audio/sound-fx/creatures/zombie-voice-audio-pack-free-196645)**
 - **[Ammo Box Assets](https://assetstore.unity.com/packages/3d/props/weapons/ammo-crate-wood-ammunition-box-90071)**
 - **[Gun FX](https://assetstore.unity.com/packages/vfx/particles/war-fx-5669)**
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Troy-Qasper/Zurvival-Capstone/blob/main/LICENSE) file for details
-
 ### Currently In Development
 - Healing items spawned around the map
 - More spawners for a more expansive round difficulty variation
 - Multiplayer (sometime in the future!)
 - Procedural recoil
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Troy-Qasper/Zurvival-Capstone/blob/main/LICENSE) file for details
+
+
 - New Assets/Maps
