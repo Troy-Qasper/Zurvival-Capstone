@@ -143,8 +143,9 @@ https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/86b5e76f-0636-4
 - More spawners for a more expansive round difficulty variation
 - Multiplayer (sometime in the future!)
 - Procedural recoil
+- New Assets/Maps
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Troy-Qasper/Zurvival-Capstone/blob/main/LICENSE) file for details
 
 
-- New Assets/Maps
