@@ -67,10 +67,10 @@ Objective: Zurvival is a game designed to challenge the player with high-intensi
 ## Installing
 To install the game follow this short tutorial. 
 If you wish to install without the tutorial:
-1. Locate and install the contents within the "Build" folder
-2. Select the "Zurvival.zip" dropdown arrow on the right and then download the raw file
+1. Locate the code button on the top of this page.
+2. Select the dropdown menu and then select "download zip."
 4. Navigate to the download location and extract the zip file
-5. Open the "Zurvival" folder after extraction
+5. Open the "Zurvival Game" folder after extraction
 6. Select and open the "ZurvivalCapstone.exe"
 7. After the game loads, hit the "Play" button and select "Level 1" (tutorial) to begin.
 8. Enjoy Zurviving!!!
