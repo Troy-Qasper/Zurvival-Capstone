@@ -146,7 +146,7 @@ https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/86b5e76f-0636-4
 - Procedural recoil
 - New Assets/Maps
 ### 6/1/2024 Patch:
-- Healing items spawned around the map (Medkits (heal 50) bandages (heal 25))
+- Healing items spawned around the map (Medkits: +50 Health, Bandages: +25 Health)
 - NavMesh Adjustments
 
 ## License
