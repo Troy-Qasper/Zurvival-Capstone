@@ -148,6 +148,8 @@ https://github.com/Troy-Qasper/Zurvival-Capstone/assets/81993270/86b5e76f-0636-4
 ### 6/1/2024 Patch:
 - Healing items spawned around the map (Medkits: +50 Health, Bandages: +25 Health)
 - NavMesh Adjustments
+- New Level
+- Enemy/Player Hitbox Adjustments
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Troy-Qasper/Zurvival-Capstone/blob/main/LICENSE) file for details
